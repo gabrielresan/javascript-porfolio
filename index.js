@@ -8,4 +8,6 @@ let idadeAposentar = parseInt(
 
 let tempoAposentar = idadeAposentar - idade;
 
+console.log("checkpoint");
+
 alert(`${userName}, faltam ${tempoAposentar} anos para você se aposentar!`);
